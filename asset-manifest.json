@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-universe/static/css/main.a995b688.css",
+    "main.js": "/crypto-universe/static/js/main.7fb28e77.js",
+    "index.html": "/crypto-universe/index.html",
+    "main.a995b688.css.map": "/crypto-universe/static/css/main.a995b688.css.map",
+    "main.7fb28e77.js.map": "/crypto-universe/static/js/main.7fb28e77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a995b688.css",
+    "static/js/main.7fb28e77.js"
+  ]
+}
